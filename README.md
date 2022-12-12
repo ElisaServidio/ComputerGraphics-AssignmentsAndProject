@@ -1,22 +1,33 @@
 **_Assignments and Final project of Computer Graphics course - Politecnico di Milano_**
 
 **ASSIGNEMENTS - Topics**
-<p align="center">
-<img src="https://user-images.githubusercontent.com/83450257/206868915-5cd26330-e34f-4e42-b989-f9b329735550.gif" height = "250">
-</p>
 
 - Basic transformation: translation, rotation, scaling and projection.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/83450257/206869340-a9c2ef46-cf5e-4684-8cfc-064b3c425f5a.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206869298-ef258a05-19f2-4f2c-a297-426b2ee5faa7.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206869250-9d397887-69c6-4df1-9e64-f1ecf39f0135.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206869207-a00222b7-3eb5-40f2-9ed8-94b2744ce351.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206869167-7e5b4c84-28c6-40ea-9535-244f84bb7034.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206869000-fad68fe4-10b5-48cc-8b20-893f1b364db6.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206867768-0fb57939-815f-4f69-8b62-6526e82b89b3.gif" height = "200">    
+</p>
 - Basic of computational geometry, clipping and hidden surface removal.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/83450257/206868956-898f3422-da69-4704-a179-dca60be3c40d.gif" height = "200">    
+</p>
 - Lighting: light sources, materials, shaders, surface normals.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/83450257/206868741-f24488ef-03fd-4933-92a7-28c843a9bd3b.gif" height = "200">    
+</p>
 - Texture: projection, mapping, , texture animation, alpha mapping, bump mapping, normal mapping.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/83450257/206868473-bfa7bdf4-2155-46c7-afaa-3546ed6ebe26.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206868223-5e8fd584-d94a-42e4-9787-14eb3aadf9c8.gif" height = "200">
+</p>
 - Advanced effects: reflection maps, BRDF models, environment maps, global illumination maps.
-- Animation: scene graph, Bezier curves, quaternion.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/83450257/206868582-93cb059f-d958-44e5-ab52-b17103993f2e.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206868650-2b3fa18d-d5dc-494f-8f1a-1479faaafd4e.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206869362-a3583761-bfea-4394-a3f8-3db85fe185d4.gif" height = "200"> 
+</p>
 
-<img src="https://user-images.githubusercontent.com/83450257/206868956-898f3422-da69-4704-a179-dca60be3c40d.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206868473-bfa7bdf4-2155-46c7-afaa-3546ed6ebe26.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206868223-5e8fd584-d94a-42e4-9787-14eb3aadf9c8.gif" height = "200">
 
-<img src="https://user-images.githubusercontent.com/83450257/206869340-a9c2ef46-cf5e-4684-8cfc-064b3c425f5a.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206869298-ef258a05-19f2-4f2c-a297-426b2ee5faa7.gif" height = "200">    
 
-<img src="https://user-images.githubusercontent.com/83450257/206868582-93cb059f-d958-44e5-ab52-b17103993f2e.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206868650-2b3fa18d-d5dc-494f-8f1a-1479faaafd4e.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206868741-f24488ef-03fd-4933-92a7-28c843a9bd3b.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206868850-394ffb3b-22ab-4a96-b152-428d577f39eb.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206869000-fad68fe4-10b5-48cc-8b20-893f1b364db6.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206869053-de2ed67f-3cc8-42a5-b4e0-ce7767a75e31.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206869123-6630dd9e-165b-424a-986e-24a3b3ba37a0.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206869167-7e5b4c84-28c6-40ea-9535-244f84bb7034.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206869207-a00222b7-3eb5-40f2-9ed8-94b2744ce351.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206869250-9d397887-69c6-4df1-9e64-f1ecf39f0135.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206869362-a3583761-bfea-4394-a3f8-3db85fe185d4.gif" height = "200">    <img src="https://user-images.githubusercontent.com/83450257/206867768-0fb57939-815f-4f69-8b62-6526e82b89b3.gif" height = "200">    
+    
+
+       
 
 **PROJECT - Tangram**
 The player must reproduce a target composition. 

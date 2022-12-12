@@ -1,5 +1,7 @@
 **_Assignments and Final project of Computer Graphics course - Politecnico di Milano_**
 
+*To set up your Vulkan development environment follow the steps illustrated in assignment A00*
+
 **ASSIGNEMENTS - Topics**
 
 - Basic transformation: translation, rotation, scaling and projection.
@@ -38,6 +40,7 @@ It must be possible to select a certain piece and to rotate (45° at a time), an
 The project is implemented in C++ using Vulkan API 1.3.
 
 https://user-images.githubusercontent.com/83450257/207121479-2d6943c5-5173-4709-b78c-84aca4e2126c.mp4
+
 
 
 

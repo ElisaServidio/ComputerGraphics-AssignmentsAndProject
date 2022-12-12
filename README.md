@@ -37,9 +37,8 @@ The player must reproduce a target composition.
 It must be possible to select a certain piece and to rotate (45° at a time), and move pieces with the keyboard. 
 The project is implemented in C++ using Vulkan API 1.3.
 
-<p align="center">
-https://user-images.githubusercontent.com/83450257/207119396-7b470066-66a7-4a30-991f-12cc7eb449f1.mp4
-</p>
+https://user-images.githubusercontent.com/83450257/207121479-2d6943c5-5173-4709-b78c-84aca4e2126c.mp4
+
 
 
 

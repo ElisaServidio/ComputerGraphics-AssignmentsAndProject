@@ -1,0 +1,35 @@
+﻿  A17.cpp
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(42): warning C4068: pragma sconosciuto
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(43): warning C4068: pragma sconosciuto
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\headers\stb_image_write.h(776): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: vedere la dichiarazione di 'sprintf'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': ridefinizione macro
+  c:\users\elisa\documents\visual studio 2017\libraries\glfw-3.3.6.bin.win64\include\glfw\glfw3.h(123): note: vedere la precedente definizione di 'APIENTRY'
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(51): warning C4068: pragma sconosciuto
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(113): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(312): warning C4305: 'inizializzazione': troncamento da 'double' a 'const float'
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(2191): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(2217): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(2225): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(2258): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(2259): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(2260): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(2261): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(2275): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(3007): warning C4244: '+=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(3008): warning C4244: '+=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(3068): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(3133): warning C4244: '=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\users\elisa\documents\visual studio 2017\projects\computer graphics\a17\a17.cpp(3070): warning C4101: 'delta': variabile locale senza riferimenti
